@@ -1,0 +1,11 @@
+,
+    # "Wine Quality White": WineQualityWhiteDataset(),
+    # "South German Credit": SouthGermanCreditDataset(),
+    # "Crop Mapping": CropMappingDataset(),
+    # "Cluster 8": ClusterDataset(d=8),
+    # "Two Cluster 8": TwoClusterDataset(d=8),
+    # "Cluster": ClusterDataset(d=11),
+    # "Two Cluster": TwoClusterDataset(d=11),
+    # "Diffused Benchmark": DiffusedBenchmark(),
+    # "Prism": PrismDataset(),
+    # "Truncated Normal Prism": TruncatedNorm
