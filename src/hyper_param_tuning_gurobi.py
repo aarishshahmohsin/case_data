@@ -13,7 +13,7 @@ from synthetic_datasets import (
     PrismDataset,
     TruncatedNormalPrism,
 )
-from solvers import cplex_solver, gurobi_solver
+from solvers import gurobi_solver
 import os
 import subprocess
 import re
