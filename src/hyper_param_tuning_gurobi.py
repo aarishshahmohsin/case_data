@@ -21,17 +21,17 @@ import re
 # Define the datasets
 datasets = {
     "Breast Cancer": BreastCancerDataset(),
-    # "Wine Quality Red": WineQualityRedDataset(),
-    # "Wine Quality White": WineQualityWhiteDataset(),
-    # # "South German Credit": SouthGermanCreditDataset(),
-    # "Crop Mapping": CropMappingDataset(),
-    # "Cluster 8": ClusterDataset(d=8),
-    # "Two Cluster 8": TwoClusterDataset(d=8),
-    # "Cluster": ClusterDataset(d=11),
-    # "Two Cluster": TwoClusterDataset(d=11),
-    # # "Diffused Benchmark": DiffusedBenchmark(),
-    # "Prism": PrismDataset(),
-    # "Truncated Normal Prism": TruncatedNormalPrism(),
+    "Wine Quality Red": WineQualityRedDataset(),
+    "Wine Quality White": WineQualityWhiteDataset(),
+    "South German Credit": SouthGermanCreditDataset(),
+    "Crop Mapping": CropMappingDataset(),
+    "Cluster 8": ClusterDataset(d=8),
+    "Two Cluster 8": TwoClusterDataset(d=8),
+    "Cluster": ClusterDataset(d=11),
+    "Two Cluster": TwoClusterDataset(d=11),
+    "Diffused Benchmark": DiffusedBenchmark(),
+    "Prism": PrismDataset(),
+    "Truncated Normal Prism": TruncatedNormalPrism(),
 }
 
 # Generate .lp files for all datasets
@@ -54,11 +54,12 @@ for dataset_name, dataset in datasets.items():
 
 # Define time limits
 time_limit = 120
+threads = 48
 # tune_time_limit = 120
 
 # Run the tuning process for all datasets
 # command = f"grbtune LogToConsole=1 TuneTimeLimit={tune_time_limit} TimeLimit={time_limit} {' '.join([ds + '.lp' for ds in ds_list])}"
-command = f"grbtune LogToConsole=1  TimeLimit={time_limit} {' '.join([ds + '.lp' for ds in ds_list])}"
+command = f"grbtune Threads={threads} LogToConsole=1  TimeLimit={time_limit} {' '.join([ds + '.lp' for ds in ds_list])}"
 
 # Run the command and capture output
 print(f"Running command: {command}")
