@@ -30,6 +30,9 @@ def separating_hyperplane(P, N, eps_P, eps_N, eps_R, theta, lamb, num_trials=100
     Returns:
         tuple: Optimal hyperplane (w, c, reach), where w is the normal vector, c is the bias, and reach is the number of true positives.
     """
+
+    np.random.seed(42)
+
     dim = P.shape[1]  # Dimension of the feature space
     L = -np.inf
     best_h = None
@@ -128,10 +131,14 @@ def gurobi_solver(
 
     # Adjusting hyperparameters 
     # model.setParam("Seed", 0)  # Fixed random seed
-    model.setParam("MIPFocus", 0) # Balanced search
-    model.setParam("MIPGap", 0.0001)  # Optimality gap
-    model.setParam("MIPGapAbs", 0.0001)  # Absolute gap
+    # model.setParam("MIPFocus", 0) # Balanced search
+    # model.setParam("MIPGap", 0.0001)  # Optimality gap
+    # model.setParam("MIPGapAbs", 0.0001)  # Absolute gap
     # model.setParam("Presolve", 1)  # Moderate presolve
+    model.setParam('Cuts', 3)
+    # model.setParam("Method", 2)  # Interior Point (Barrier)
+    # above 0, 1, 2, 3
+
 
     if initial_h is not None:
         init_w, init_c, reach = initial_h
