@@ -1,4 +1,5 @@
 from real_datasets import BreastCancerDataset, WineQualityRedDataset, WineQualityWhiteDataset, SouthGermanCreditDataset, CropMappingDataset
+import os
 import numpy as np
 from synthetic_datasets import ClusterDataset, TwoClusterDataset, DiffusedBenchmark, PrismDataset, TruncatedNormalPrism
 from solvers import gurobi_solver, separating_hyperplane
@@ -17,29 +18,34 @@ datasets = {
     "Prism": PrismDataset(),
     "Truncated Normal Prism": TruncatedNormalPrism(),
 }
-times = 1
-import numpy as np
 
-for dataset_name, dataset in datasets.items():
-    P, N = dataset.generate()
-    t0, t1, t, l = dataset.params()
-    # print(t1)
-    final_res = []
-    for i in range(times):
-        # print(i)
-        # print(l)
-        # w, c, r = separating_hyperplane(P, N, epsilon_P, epsilon_N, epsilon_R, t, l, num_trials=10000)
-        # # print(c) 
-        # reach = np.dot(P, w) - c >= epsilon_P
-        # print(np.sum(reach))
-        # # xs ≤ 1 + sT w − c − P
-        # res_cplex = cplex_solver(theta=t, theta0=t0, theta1=t1, P=P, N=N, lambda_param=l)
-        # print("cplex", dataset_name, res_cplex['Reach'])
-        res_gurobi = gurobi_solver(theta=t, theta0=t0, theta1=t1, P=P, N=N, lambda_param=l)
-        print("gurobi", dataset_name, res_gurobi['Reach'], res_gurobi['Time taken'])
-        # print(res_gurobi)
-        # final_res.append([res_gurobi, res_cplex])
-        # print([res_gurobi['Reach'], res_cplex['Reach']])
-        # print(r)
-    # results[dataset_name] = final_res
-    
+times = 5
+SEEDS = [42, 123, 0, 2024, 314159, 271828, 161803, 8675309, 13579, 24680]
+
+for cut in range(-1, 4):
+    print("new cut: ", cut)
+    if cut == -1:
+        os.system('python /tmp/f/case_data/sender.py')
+    for dataset_name, dataset in datasets.items():
+        P, N = dataset.generate()
+        t0, t1, t, l = dataset.params()
+        # print(t1)
+        final_res = []
+        for i in range(times):
+            # print(i)
+            # print(l)
+            # w, c, r = separating_hyperplane(P, N, epsilon_P, epsilon_N, epsilon_R, t, l, num_trials=10000)
+            # # print(c) 
+            # reach = np.dot(P, w) - c >= epsilon_P
+            # print(np.sum(reach))
+            # # xs ≤ 1 + sT w − c − P
+            # res_cplex = cplex_solver(theta=t, theta0=t0, theta1=t1, P=P, N=N, lambda_param=l)
+            # print("cplex", dataset_name, res_cplex['Reach'])
+            res_gurobi = gurobi_solver(theta=t, theta0=t0, theta1=t1, P=P, N=N, lambda_param=l, seed=SEEDS[i], cuts=cut)
+            print(SEEDS[i], "gurobi", dataset_name, res_gurobi['Reach'], res_gurobi['Time taken'])
+            # print(res_gurobi)
+            # final_res.append([res_gurobi, res_cplex])
+            # print([res_gurobi['Reach'], res_cplex['Reach']])
+            # print(r)
+        # results[dataset_name] = final_res
+        

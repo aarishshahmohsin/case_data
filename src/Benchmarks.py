@@ -31,7 +31,8 @@ datasets = {
     "Truncated Normal Prism": TruncatedNormalPrism(),
 }
 
-times = 1
+times = 5
+SEEDS = [42, 123, 0, 2024, 314159, 271828, 161803, 8675309, 13579, 24680]
 results = {}
 
 final_res = []
@@ -49,7 +50,8 @@ for dataset_name, dataset in datasets.items():
             P=P,
             N=N,
             lambda_param=lambda_param,
-            dataset_name=dataset_name
+            dataset_name=dataset_name,
+            seed=SEEDS[i]
         )
         # res_cplex = cplex_solver(
         #     theta=theta,

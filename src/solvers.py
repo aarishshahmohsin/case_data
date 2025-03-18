@@ -13,7 +13,7 @@ from constants import (
 )
 
 
-def separating_hyperplane(P, N, eps_P, eps_N, eps_R, theta, lamb, num_trials=10000):
+def separating_hyperplane(P, N, eps_P, eps_N, eps_R, theta, lamb, num_trials=10000, seed=0):
     """
     Finds the initial separating hyperplane using the provided algorithm.
 
@@ -31,7 +31,7 @@ def separating_hyperplane(P, N, eps_P, eps_N, eps_R, theta, lamb, num_trials=100
         tuple: Optimal hyperplane (w, c, reach), where w is the normal vector, c is the bias, and reach is the number of true positives.
     """
 
-    np.random.seed(42)
+    np.random.seed(seed)
 
     dim = P.shape[1]  # Dimension of the feature space
     L = -np.inf
@@ -82,6 +82,8 @@ def gurobi_solver(
     lambda_param=None,
     dataset_name='random_name',
     run=True,
+    seed=0,
+    cuts=-1,
 ):
     """
     Solves the wide-reach classification problem for given positive and negative samples.
@@ -106,7 +108,7 @@ def gurobi_solver(
         lambda_param = (num_positive + 1) * theta1
 
     initial_h = separating_hyperplane(
-        P, N, epsilon_P, epsilon_N, epsilon_R, theta, lambda_param, num_trials=10000
+        P, N, epsilon_P, epsilon_N, epsilon_R, theta, lambda_param, num_trials=10000, seed=seed
     )
     # print(initial_w, initial_c)
 
@@ -130,12 +132,12 @@ def gurobi_solver(
 
 
     # Adjusting hyperparameters 
-    # model.setParam("Seed", 0)  # Fixed random seed
+    model.setParam("Seed", seed)  # Fixed random seed
     # model.setParam("MIPFocus", 0) # Balanced search
     # model.setParam("MIPGap", 0.0001)  # Optimality gap
     # model.setParam("MIPGapAbs", 0.0001)  # Absolute gap
     # model.setParam("Presolve", 1)  # Moderate presolve
-    model.setParam('Cuts', 3)
+    model.setParam('Cuts', cuts)
     # model.setParam("Method", 2)  # Interior Point (Barrier)
     # above 0, 1, 2, 3
 

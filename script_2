@@ -34,15 +34,7 @@ cd case_data
 
 python sender.py
 
-python src/hyper_param_tuning_gurobi.py
-
-for file in *.prm; do
-    if [[ -f "$file" ]]; then  # Check if the file exists
-        echo "===== $file ====="
-        cat "$file"
-        echo ""  # Add a blank line for readability
-    fi
-done
+python src/hpc_cuts.py
 
 python sender.py
 
