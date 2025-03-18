@@ -1,0 +1,47 @@
+#!/bin/bash
+
+#SBATCH -N 1                 # Request 1 node
+#SBATCH -c 24                # Request 24 CPU cores
+#SBATCH --mem=32G            # Request 32GB of RAM 
+
+#SBATCH --time=0-04:00:00 # 8 hours 
+
+#SBATCH --output=aarish_job.log 
+
+#SBATCH --mail-user=asm332@case.edu 
+
+#SBATCH --mail-type=ALL 
+
+#SBATCH --job-name="grbtune job" 
+
+# Put commands for executing job below this line 
+
+module load Gurobi
+
+mkdir /tmp/f
+
+cd /tmp/f
+
+git clone https://github.com/aarishshahmohsin/case_data
+
+python -m venv my_env
+
+source my_env/bin/activate
+
+pip install scipy pandas numpy matplotlib 
+
+cd case_data
+
+
+python src/hyper_param_tuning_gurobi.py
+
+for file in *.prm; do
+    if [[ -f "$file" ]]; then  # Check if the file exists
+        echo "===== $file ====="
+        cat "$file"
+        echo ""  # Add a blank line for readability
+    fi
+done
+
+
+
