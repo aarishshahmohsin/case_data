@@ -137,8 +137,8 @@ def gurobi_solver(
     # model.setParam("MIPGap", 0.0001)  # Optimality gap
     # model.setParam("MIPGapAbs", 0.0001)  # Absolute gap
     # model.setParam("Presolve", 1)  # Moderate presolve
-    model.setParam('Cuts', cuts)
-    # model.setParam("Method", 2)  # Interior Point (Barrier)
+    # model.setParam('Cuts', cuts)
+    model.setParam("Method", cuts)  # Interior Point (Barrier)
     # above 0, 1, 2, 3
 
 

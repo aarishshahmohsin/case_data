@@ -1,0 +1,61 @@
+Cut Value,Dataset,Avg Reach,Avg Time Taken
+-1,Breast Cancer,357.00,0.06
+-1,Crop Mapping,2223.40,56.40
+-1,Wine Quality Red,18.00,0.06
+-1,Wine Quality White,122.00,120.12
+-1,South German Credit,162.60,120.04
+-1,Cluster 8,44.00,0.79
+-1,Two Cluster 8,22.00,1.96
+-1,Cluster,45.00,1.51
+-1,Two Cluster,29.00,1.58
+-1,Diffused Benchmark,22.20,120.07
+-1,Prism,180.00,0.07
+-1,Truncated Normal Prism,180.00,0.24
+0,Breast Cancer,357.00,0.04
+0,Crop Mapping,2223.40,55.08
+0,Wine Quality Red,18.00,0.06
+0,Wine Quality White,124.20,120.06
+0,South German Credit,159.20,120.04
+0,Cluster 8,44.00,0.47
+0,Two Cluster 8,22.00,1.37
+0,Cluster,45.00,0.60
+0,Two Cluster,29.00,1.75
+0,Diffused Benchmark,24.00,109.47
+0,Prism,180.00,0.08
+0,Truncated Normal Prism,180.00,0.24
+1,Breast Cancer,357.00,0.04
+1,Crop Mapping,2223.40,56.19
+1,Wine Quality Red,18.00,0.06
+1,Wine Quality White,124.40,120.11
+1,South German Credit,179.80,120.04
+1,Cluster 8,44.00,0.87
+1,Two Cluster 8,22.00,1.77
+1,Cluster,45.00,1.35
+1,Two Cluster,29.00,2.03
+1,Diffused Benchmark,22.20,120.06
+1,Prism,180.00,0.07
+1,Truncated Normal Prism,180.00,0.24
+2,Breast Cancer,357.00,0.04
+2,Crop Mapping,2223.40,61.73
+2,Wine Quality Red,18.00,0.06
+2,Wine Quality White,123.80,120.06
+2,South German Credit,152.60,120.09
+2,Cluster 8,44.00,1.00
+2,Two Cluster 8,22.00,2.56
+2,Cluster,45.00,1.19
+2,Two Cluster,29.00,3.21
+2,Diffused Benchmark,22.40,120.03
+2,Prism,180.00,0.07
+2,Truncated Normal Prism,180.00,0.24
+3,Breast Cancer,357.00,0.04
+3,Crop Mapping,2223.40,68.28
+3,Wine Quality Red,18.00,0.09
+3,Wine Quality White,120.60,120.07
+3,South German Credit,160.60,120.06
+3,Cluster 8,44.00,0.87
+3,Two Cluster 8,22.00,2.80
+3,Cluster,45.00,2.05
+3,Two Cluster,29.00,3.84
+3,Diffused Benchmark,23.40,120.02
+3,Prism,180.00,0.07
+3,Truncated Normal Prism,180.00,0.37

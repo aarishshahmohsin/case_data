@@ -1,0 +1,1201 @@
+42 gurobi Breast Cancer 357.0 0.12008118629455566
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Breast Cancer 357.0 0.0419158935546875
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Breast Cancer 357.0 0.042743682861328125
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Breast Cancer 357.0 0.0414884090423584
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Breast Cancer 357.0 0.04391288757324219
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Crop Mapping 421.0 120.20642638206482
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Crop Mapping 2674.0 45.512349128723145
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Crop Mapping 2674.0 13.781864643096924
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Crop Mapping 2674.0 88.31677603721619
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Crop Mapping 2674.0 14.160234689712524
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality Red 18.0 0.0647130012512207
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality Red 18.0 0.0613710880279541
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality Red 18.0 0.062132835388183594
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality Red 18.0 0.061292409896850586
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality Red 18.0 0.06272149085998535
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality White 133.00000284243464 120.11464929580688
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality White 120.0 120.11494970321655
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality White 124.0 120.19158124923706
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality White 99.0 120.0712161064148
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality White 134.0 120.12843465805054
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi South German Credit 157.0 120.06052947044373
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi South German Credit 121.0 120.02286529541016
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi South German Credit 193.0 120.03873753547668
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi South German Credit 167.0 120.0452470779419
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi South German Credit 175.0 120.02404594421387
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 8 44.0 0.5165812969207764
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 8 44.0 0.911219596862793
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 8 44.0 0.68208909034729
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 8 44.0 0.622272253036499
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 8 44.0 1.2263078689575195
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 8 22.0 2.697187662124634
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 8 22.0 1.2632734775543213
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 8 22.0 2.233760118484497
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 8 22.0 2.0661349296569824
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 8 22.0 1.5326755046844482
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 45.0 1.725250005722046
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 45.0 1.0379416942596436
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 45.0 1.5867085456848145
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 45.0 1.8282976150512695
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 45.0 1.3600623607635498
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 29.0 1.3698711395263672
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 29.0 1.4774894714355469
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 29.0 1.6947321891784668
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 29.0 1.5575659275054932
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 29.0 1.8234624862670898
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Diffused Benchmark 23.0 120.03330254554749
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Diffused Benchmark 24.0 120.07313561439514
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Diffused Benchmark 23.0 120.01792907714844
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Diffused Benchmark 19.0 120.14862871170044
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Diffused Benchmark 22.0 120.07191157341003
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Prism 180.0 0.0748598575592041
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Prism 180.0 0.06111860275268555
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Prism 180.0 0.07335472106933594
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Prism 180.0 0.0735020637512207
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Prism 180.0 0.07265353202819824
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Truncated Normal Prism 180.0 0.24318289756774902
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Truncated Normal Prism 180.0 0.24764418601989746
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Truncated Normal Prism 180.0 0.23951268196105957
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Truncated Normal Prism 180.0 0.23482441902160645
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Truncated Normal Prism 180.0 0.23491525650024414
+new cut:  0
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Breast Cancer 357.0 0.04111194610595703
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Breast Cancer 357.0 0.04076838493347168
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Breast Cancer 357.0 0.042032480239868164
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Breast Cancer 357.0 0.04068875312805176
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Breast Cancer 357.0 0.040467262268066406
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Crop Mapping 421.0 120.20650935173035
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Crop Mapping 2674.0 42.624892711639404
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Crop Mapping 2674.0 13.510201692581177
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Crop Mapping 2674.0 85.67059755325317
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Crop Mapping 2674.0 13.368767023086548
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality Red 18.0 0.06146574020385742
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality Red 18.0 0.06068062782287598
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality Red 18.0 0.06104469299316406
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality Red 18.0 0.06073117256164551
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality Red 18.0 0.0619962215423584
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality White 130.0 120.07190442085266
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality White 119.0 120.05756449699402
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality White 108.0 120.06243133544922
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality White 131.0 120.06868481636047
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality White 133.0 120.06273031234741
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi South German Credit 124.0 120.0372965335846
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi South German Credit 188.0 120.02443337440491
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi South German Credit 174.0 120.06601428985596
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi South German Credit 181.0 120.02002263069153
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi South German Credit 129.0 120.06552028656006
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 8 44.0 0.3671290874481201
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 8 44.0 0.49723076820373535
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 8 44.0 0.5352427959442139
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 8 44.0 0.5066816806793213
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 8 44.0 0.45680737495422363
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 8 22.0 2.0488240718841553
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 8 22.0 1.4675416946411133
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 8 22.0 1.1527020931243896
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 8 22.0 1.0522143840789795
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 8 22.0 1.1098146438598633
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 45.0 0.5857055187225342
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 45.0 0.6378922462463379
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 45.0 0.5915036201477051
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 45.0 0.5242042541503906
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 45.0 0.6550643444061279
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 29.0 1.6690728664398193
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 29.0 1.907012939453125
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 29.0 1.7998850345611572
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 29.0 1.2942562103271484
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 29.0 2.0901198387145996
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Diffused Benchmark 24.0 120.00981736183167
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Diffused Benchmark 24.0 98.80104088783264
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Diffused Benchmark 24.0 103.74507522583008
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Diffused Benchmark 24.0 114.64831328392029
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Diffused Benchmark 24.0 110.12398338317871
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Prism 180.0 0.07988882064819336
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Prism 180.0 0.0768287181854248
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Prism 180.0 0.0775303840637207
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Prism 180.0 0.07732129096984863
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Prism 180.0 0.07503080368041992
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Truncated Normal Prism 180.0 0.2483222484588623
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Truncated Normal Prism 180.0 0.2517080307006836
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Truncated Normal Prism 180.0 0.24338054656982422
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Truncated Normal Prism 180.0 0.23214292526245117
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Truncated Normal Prism 180.0 0.24576115608215332
+new cut:  1
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Breast Cancer 357.0 0.040865182876586914
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Breast Cancer 357.0 0.04058718681335449
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Breast Cancer 357.0 0.04172968864440918
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Breast Cancer 357.0 0.040436506271362305
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Breast Cancer 357.0 0.04015159606933594
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Crop Mapping 421.0 120.20761179924011
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Crop Mapping 2674.0 45.08564114570618
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Crop Mapping 2674.0 13.642274379730225
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Crop Mapping 2674.0 88.55196070671082
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Crop Mapping 2674.0 13.47661542892456
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality Red 18.0 0.06152701377868652
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality Red 18.0 0.06113004684448242
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality Red 18.0 0.06149721145629883
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality Red 18.0 0.060823917388916016
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality Red 18.0 0.06238722801208496
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality White 135.0 120.10750222206116
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality White 119.0 120.11676359176636
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality White 132.0 120.11891841888428
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality White 105.0 120.1106276512146
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality White 131.0 120.10954093933105
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi South German Credit 188.0 120.02551078796387
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi South German Credit 188.0 120.07564520835876
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi South German Credit 184.0 120.04458260536194
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi South German Credit 164.0 120.01054430007935
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi South German Credit 175.0 120.05690479278564
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 8 44.0 0.509119987487793
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 8 44.0 0.9608333110809326
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 8 44.0 0.9630722999572754
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 8 44.0 1.0051853656768799
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 8 44.0 0.9359986782073975
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 8 22.0 2.1658082008361816
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 8 22.0 1.9416289329528809
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 8 22.0 1.6599531173706055
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 8 22.0 1.8633360862731934
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 8 22.0 1.2157955169677734
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 45.0 1.0544350147247314
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 45.0 0.7108545303344727
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 45.0 1.5625243186950684
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 45.0 1.6604478359222412
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 45.0 1.774305820465088
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 29.0 2.0220818519592285
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 29.0 2.27669358253479
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 29.0 1.9721829891204834
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 29.0 2.1488327980041504
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 29.0 1.7244758605957031
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Diffused Benchmark 23.0 120.05671167373657
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Diffused Benchmark 24.0 120.08495426177979
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Diffused Benchmark 23.0 120.10101413726807
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Diffused Benchmark 19.0 120.04833745956421
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Diffused Benchmark 22.0 120.02006220817566
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Prism 180.0 0.07328081130981445
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Prism 180.0 0.07239532470703125
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Prism 180.0 0.07243919372558594
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Prism 180.0 0.06088972091674805
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Prism 180.0 0.07427382469177246
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Truncated Normal Prism 180.0 0.24313569068908691
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Truncated Normal Prism 180.0 0.24649333953857422
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Truncated Normal Prism 180.0 0.2380383014678955
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Truncated Normal Prism 180.0 0.23203229904174805
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Truncated Normal Prism 180.0 0.23173832893371582
+new cut:  2
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Breast Cancer 357.0 0.041188955307006836
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Breast Cancer 357.0 0.04087662696838379
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Breast Cancer 357.0 0.04223275184631348
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Breast Cancer 357.0 0.04058074951171875
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Breast Cancer 357.0 0.040750980377197266
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Crop Mapping 421.0 120.22621464729309
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Crop Mapping 2674.0 59.26257300376892
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Crop Mapping 2674.0 13.549077033996582
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Crop Mapping 2674.0 102.16970872879028
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Crop Mapping 2674.0 13.461462259292603
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality Red 18.0 0.06159090995788574
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality Red 18.0 0.060915470123291016
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality Red 18.0 0.061601877212524414
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality Red 18.0 0.06052279472351074
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality Red 18.0 0.062322378158569336
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality White 137.0 120.07524085044861
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality White 124.0 120.04742169380188
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality White 126.0 120.03127002716064
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality White 106.0 120.09281849861145
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality White 126.0 120.04617357254028
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi South German Credit 138.0 120.05876851081848
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi South German Credit 191.0 120.23785781860352
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi South German Credit 140.0 120.0181999206543
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi South German Credit 159.0 120.0557804107666
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi South German Credit 135.0 120.07988119125366
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 8 44.0 0.6572422981262207
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 8 44.0 0.9861114025115967
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 8 44.0 0.9541878700256348
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 8 44.0 1.536545991897583
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 8 44.0 0.8745167255401611
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 8 22.0 3.158754587173462
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 8 22.0 2.801020622253418
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 8 22.0 2.0322389602661133
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 8 22.0 2.4931697845458984
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 8 22.0 2.2927937507629395
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 45.0 0.9897329807281494
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 45.0 1.2039988040924072
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 45.0 1.573836326599121
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 45.0 1.0336341857910156
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 45.0 1.1551032066345215
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 29.0 2.6696629524230957
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 29.0 3.9024007320404053
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 29.0 2.0651519298553467
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 29.0 4.105485200881958
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 29.0 3.3065943717956543
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Diffused Benchmark 20.0 120.04865431785583
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Diffused Benchmark 24.0 120.01560473442078
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Diffused Benchmark 20.0 120.02958059310913
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Diffused Benchmark 24.0 120.05238842964172
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Diffused Benchmark 24.0 120.01897644996643
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Prism 180.0 0.07658696174621582
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Prism 180.0 0.0732579231262207
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Prism 180.0 0.07396960258483887
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Prism 180.0 0.07381248474121094
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Prism 180.0 0.07459449768066406
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Truncated Normal Prism 180.0 0.24167156219482422
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Truncated Normal Prism 180.0 0.24881625175476074
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Truncated Normal Prism 180.0 0.2396383285522461
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Truncated Normal Prism 180.0 0.232529878616333
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Truncated Normal Prism 180.0 0.23207640647888184
+new cut:  3
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Breast Cancer 357.0 0.0413670539855957
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Breast Cancer 357.0 0.04084968566894531
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Breast Cancer 357.0 0.04212760925292969
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Breast Cancer 357.0 0.04070687294006348
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Breast Cancer 357.0 0.04057192802429199
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Crop Mapping 421.0 120.3487343788147
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Crop Mapping 2674.0 74.5150740146637
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Crop Mapping 2674.0 14.925038814544678
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Crop Mapping 2674.0 116.7772467136383
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Crop Mapping 2674.0 14.830990076065063
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality Red 18.0 0.09222650527954102
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality Red 18.0 0.09178757667541504
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality Red 18.0 0.09205484390258789
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality Red 18.0 0.09157538414001465
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality Red 18.0 0.09270071983337402
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Wine Quality White 138.0 120.0595006942749
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Wine Quality White 106.0 120.10820579528809
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Wine Quality White 126.0 120.04214334487915
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Wine Quality White 96.0 120.0894832611084
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Wine Quality White 137.0 120.05923080444336
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi South German Credit 194.0 120.09439468383789
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi South German Credit 188.0 120.05428910255432
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi South German Credit 77.0 120.08538722991943
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi South German Credit 185.0 120.02439999580383
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi South German Credit 159.0 120.04669547080994
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 8 44.0 1.0114927291870117
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 8 44.0 0.7234456539154053
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 8 44.0 0.9735617637634277
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 8 44.0 0.6570727825164795
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 8 44.0 0.9939589500427246
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 8 22.0 2.389906644821167
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 8 22.0 3.8172366619110107
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 8 22.0 2.1327295303344727
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 8 22.0 2.6848952770233154
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 8 22.0 2.9908969402313232
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Cluster 45.0 1.247645378112793
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Cluster 45.0 2.4957916736602783
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Cluster 45.0 1.708263635635376
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Cluster 45.0 2.3383893966674805
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Cluster 45.0 2.4804141521453857
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Two Cluster 29.0 3.2038493156433105
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Two Cluster 29.0 4.479080677032471
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Two Cluster 29.0 4.329166650772095
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Two Cluster 29.0 4.576953649520874
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Two Cluster 29.0 2.6020219326019287
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Diffused Benchmark 23.0 120.01387476921082
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Diffused Benchmark 23.0 120.02987813949585
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Diffused Benchmark 23.0 120.01395440101624
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Diffused Benchmark 24.0 120.01918435096741
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Diffused Benchmark 24.0 120.03702068328857
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Prism 180.0 0.07219862937927246
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Prism 180.0 0.0723423957824707
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Prism 180.0 0.07347464561462402
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Prism 180.0 0.07091116905212402
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Prism 180.0 0.07161498069763184
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+42 gurobi Truncated Normal Prism 180.0 0.3696303367614746
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+123 gurobi Truncated Normal Prism 180.0 0.3605656623840332
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+0 gurobi Truncated Normal Prism 180.0 0.370464563369751
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+2024 gurobi Truncated Normal Prism 180.0 0.363872766494751
+Set parameter GURO_PAR_SPECIAL
+Set parameter TokenServer to value "hpc8"
+Set parameter TimeLimit to value 120
+314159 gurobi Truncated Normal Prism 180.0 0.3612818717956543
