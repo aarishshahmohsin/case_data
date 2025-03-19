@@ -44,7 +44,7 @@ for cut in range(-1, 4):
                 # res_cplex = cplex_solver(theta=t, theta0=t0, theta1=t1, P=P, N=N, lambda_param=l)
                 # print("cplex", dataset_name, res_cplex['Reach'])
                 res_gurobi = gurobi_solver(theta=t, theta0=t0, theta1=t1, P=P, N=N, lambda_param=l, seed=SEEDS[i], cuts=cut, method=method)
-                final_res.append(cut, method, SEEDS[i], "gurobi", dataset_name, res_gurobi['Reach'], res_gurobi['Time taken'])
+                final_res.append([cut, method, SEEDS[i], "gurobi", dataset_name, res_gurobi['Reach'], res_gurobi['Time taken']])
                 print(SEEDS[i], "gurobi", dataset_name, res_gurobi['Reach'], res_gurobi['Time taken'])
                 # print(res_gurobi)
                 # final_res.append([res_gurobi, res_cplex])
