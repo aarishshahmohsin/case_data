@@ -4,7 +4,7 @@
 #SBATCH -c 24                # Request 24 CPU cores
 #SBATCH --mem=32G            # Request 32GB of RAM 
 
-#SBATCH --time=0-04:00:00 # 8 hours 
+#SBATCH --time=0-08:00:00 # 8 hours 
 
 #SBATCH --output=aarish_job.log 
 

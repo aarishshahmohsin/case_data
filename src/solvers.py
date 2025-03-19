@@ -84,6 +84,7 @@ def gurobi_solver(
     run=True,
     seed=0,
     cuts=-1,
+    method=-1,
 ):
     """
     Solves the wide-reach classification problem for given positive and negative samples.
@@ -137,8 +138,8 @@ def gurobi_solver(
     # model.setParam("MIPGap", 0.0001)  # Optimality gap
     # model.setParam("MIPGapAbs", 0.0001)  # Absolute gap
     # model.setParam("Presolve", 1)  # Moderate presolve
-    # model.setParam('Cuts', cuts)
-    model.setParam("Method", cuts)  # Interior Point (Barrier)
+    model.setParam('Cuts', cuts)
+    model.setParam("Method", method)  # Interior Point (Barrier)
     # above 0, 1, 2, 3
 
 
