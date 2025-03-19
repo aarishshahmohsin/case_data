@@ -26,7 +26,7 @@ SEEDS = [42, 123, 0, 2024, 314159, 271828]
 for cut in range(-1, 4):
     for method in range(-1, 4):
         print("new cut: ", cut)
-        if cut == -1 or cut == 0:
+        if method == -1 and (cut == -1 or cut == 0):
             os.system('python /tmp/f/case_data/sender.py')
         final_res = []
         for dataset_name, dataset in datasets.items():
